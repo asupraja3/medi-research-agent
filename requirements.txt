@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+chromadb
+rank_bm25
+pandas
+sentence-transformers
+kaggle
+regex
+httpx
